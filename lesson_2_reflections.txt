@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a temporary area where you can store commits before sending them into the repository. It allows the user to 
