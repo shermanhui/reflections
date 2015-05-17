@@ -1,3 +1,7 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Staging area is a temporary area where you can store commits before sending them into the repository. It allows the user to 
+Staging area is a temporary area where you can store commits before sending them into the repository. It allows the user to keep better track of changes because you can see the differences between the WD and SA with git diff and between the Staging Area and the Commit with git diff —staged. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can check the changes with git diff with file in the staging area and the last commit in the repository
