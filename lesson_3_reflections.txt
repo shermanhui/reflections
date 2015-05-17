@@ -5,3 +5,7 @@ When you plan on working remotely, when you want to back up your work on the clo
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because you may want to be selective of the pulls you want to include to your repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You would know exactly what the last local changes were. It would also allow you to have multiple versions that aren't available to the public.
